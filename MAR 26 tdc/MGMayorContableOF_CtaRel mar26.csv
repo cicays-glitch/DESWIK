@@ -1,0 +1,258 @@
+LIBRO MAYOR CONTABLE ;;;;;;;;
+;Filtros;Mostrar cuenta sistema anterior:;;S;Fecha base para el saldo inicial:;;01/01/2024;
+;;Fecha inicio:;01/01/2026;;Normas Contables :;IFRS;;
+;;Fecha fin:;31/03/2026;;Código de cuenta:;3011301|3011302;;
+;;Empresa:;DESWIK CHILE SPA;;;;;
+Cuenta:  2114 TARJETAS DE CREDITO CLP;;;;;;;;
+Moneda de la Cta: Moneda Local;;;;;;;;
+Comprobante;Fec. Doc.;Voucher;;Titular;T.Doc/Nro;Debe;Haber;Acumulado
+;;;;;Saldo Inicial al 01/01/2026;;;
+aape/5972;01-01-26;;;DEMO MAGNUS ERP;;;3,970,703;-3,970,703
+Glosa : Asiento de Apertura de Ejercicio;;;;;;;;
+;;;;;;;;
+adig/1861;14-01-26;4,195;;MARCELO PENNA SANTOS;;752,789;;-3,217,914
+Glosa : Credit Card payment MP;;;;;;;;
+;;;;;;;;
+adig/1862;14-01-26;4,196;;JUAN SEBASTIAN CARVALLO JIMÉNEZ;;6,314;;-3,211,600
+Glosa : Credit card payment SC;;;;;;;;
+;;;;;;;;
+adig/1863;14-01-26;4,197;;FRANCISCO MIRANDA RIADI;;7,314;;-3,204,286
+Glosa : Bank Transfer to CC Francisco Miranda.;;;;;;;;
+;;;;;;;;
+adig/1864;14-01-26;4,198;;KATHERINNE SILVANA ALARCON ESCOBAR;;596,065;;-2,608,221
+Glosa : Katherinnes credit card payment;;;;;;;;
+;;;;;;;;
+adig/1865;14-01-26;4,199;;CESAR FELIPE MACHADO RIBEIRO LOPES;;719,990;;-1,888,231
+Glosa : Credit Card payment CM;;;;;;;;
+;;;;;;;;
+adig/1866;14-01-26;4,200;;CAITLIN JOY WHEAT;;1,121,283;;-766,948
+Glosa : Credit card payment CW;;;;;;;;
+;;;;;;;;
+adig/1919;27-01-26;4,316;;JORGE MORIS JORDÁN;;;14,910;-781,858
+Glosa : CC Expense - Estacionamiento 27 enero;;;;;;;;
+;;;;;;;;
+adig/1891;28-01-26;4,242;;CAITLIN JOY WHEAT;;;1,333,628;-2,115,486
+Glosa : TDC CAITLYN WEAT;;;;;;;;
+;;;;;;;;
+adig/1892;28-01-26;4,243;;CESAR FELIPE MACHADO RIBEIRO LOPES;;;86,888;-2,202,374
+Glosa : TDC CESAR MACHADO;;;;;;;;
+;;;;;;;;
+adig/1893;28-01-26;4,244;;FRANCISCO MIRANDA RIADI;;;140,395;-2,342,769
+Glosa : TDC CLP/USD FRANCISCO MIRANDA;;;;;;;;
+;;;;;;;;
+adig/1894;28-01-26;4,245;;JUAN SEBASTIAN CARVALLO JIMÉNEZ;;;99,008;-2,441,777
+Glosa : TDC CLP JUAN CARVALLO;;;;;;;;
+;;;;;;;;
+adig/1895;28-01-26;4,246;;MARCELO PENNA SANTOS;;;146,634;-2,588,411
+Glosa : TDC M. PENNA;;;;;;;;
+;;;;;;;;
+adig/1896;28-01-26;4,247;;KATHERINNE SILVANA ALARCON ESCOBAR;;;1,437,298;-4,025,709
+Glosa : TDC K. ALARCON;;;;;;;;
+;;;;;;;;
+adig/1923;28-01-26;4,321;;CAITLIN JOY WHEAT;;;30,700;-4,056,409
+Glosa : CC Expense - Oxxo - happy hour;;;;;;;;
+;;;;;;;;
+adig/1920;29-01-26;4,317;;JORGE MORIS JORDÁN;;;46,725;-4,103,134
+Glosa : CC Expense - Combustible semana 3;;;;;;;;
+;;;;;;;;
+adig/1921;29-01-26;4,319;;CAITLIN JOY WHEAT;;;11,242;-4,114,376
+Glosa : CC Expense - Cabify para volver a casa despues de dejar el auto arrendado;;;;;;;;
+;;;;;;;;
+adig/1922;29-01-26;4,320;;CAITLIN JOY WHEAT;;;583,835;-4,698,211
+Glosa : CC Expense - Flights Sebastian Carvallo - 16 Feb to 3 march 2026;;;;;;;;
+;;;;;;;;
+adig/1897;31-01-26;4,249;;JORGE MORIS JORDÁN;;;303,651;-5,001,862
+Glosa : TDC CLP/USD JORGE MORIS;;;;;;;;
+;;;;;;;;
+adig/1924;31-01-26;4,322;;JORGE MORIS JORDÁN;;;984,543;-5,986,405
+Glosa : Pago F1770256 Serpab en tdc;;;;;;;;
+;;;;;;;;
+adig/1967;02-02-26;4,517;;CAITLIN JOY WHEAT;;;9,160;-5,995,565
+Glosa : CC Expense - FX Sebastian flighq;;;;;;;;
+;;;;;;;;
+adig/1911;12-02-26;4,305;;CAITLIN JOY WHEAT;;1,495,588;;-4,499,977
+Glosa : Tarjeta credito caitlin;;;;;;;;
+;;;;;;;;
+adig/1912;12-02-26;4,306;;MARCELO PENNA SANTOS;;146,634;;-4,353,343
+Glosa : Tarjeta credito Marcelo Penna;;;;;;;;
+;;;;;;;;
+adig/1913;12-02-26;4,307;;JUAN SEBASTIAN CARVALLO JIMÉNEZ;;99,008;;-4,254,335
+Glosa : Tarjeta de credito sebastian carballo;;;;;;;;
+;;;;;;;;
+adig/1914;12-02-26;4,308;;KATHERINNE SILVANA ALARCON ESCOBAR;;1,437,298;;-2,817,037
+Glosa : Tarjeeta credito Katherinne alarcon;;;;;;;;
+;;;;;;;;
+adig/1915;12-02-26;4,309;;CESAR FELIPE MACHADO RIBEIRO LOPES;;86,888;;-2,730,149
+Glosa : Tarjeta credito Cesar Machado;;;;;;;;
+;;;;;;;;
+adig/1916;12-02-26;4,310;;FRANCISCO MIRANDA RIADI;;140,395;;-2,589,754
+Glosa : Tarjeta credito francisco miranda;;;;;;;;
+;;;;;;;;
+adig/1917;12-02-26;4,311;;JORGE MORIS JORDÁN;;303,651;;-2,286,103
+Glosa : Tarjeta de credito jorge moris;;;;;;;;
+;;;;;;;;
+adig/1938;25-02-26;4,453;;JUAN SEBASTIAN CARVALLO JIMÉNEZ;;;38,514;-2,324,617
+Glosa : TDC CLP JUAN CARVALLO;;;;;;;;
+;;;;;;;;
+adig/1939;25-02-26;4,454;;CAITLIN JOY WHEAT;;11,242;;-2,313,375
+Glosa : tdc cw;;;;;;;;
+;;;;;;;;
+adig/1939;25-02-26;4,454;;JORGE MORIS JORDÁN;;14,910;;-2,298,465
+Glosa : TDC CLP/USD JORGE MORIS;;;;;;;;
+;;;;;;;;
+adig/1939;25-02-26;4,454;;JORGE MORIS JORDÁN;;;1,050,155;-3,348,620
+Glosa : TDC CLP/USD JORGE MORIS;;;;;;;;
+;;;;;;;;
+adig/1939;25-02-26;4,454;;JORGE MORIS JORDÁN;;827,347;;-2,521,273
+Glosa : TDC CLP/USD JORGE MORIS;;;;;;;;
+;;;;;;;;
+adig/1939;25-02-26;4,454;;JORGE MORIS JORDÁN;;46,725;;-2,474,548
+Glosa : TDC CLP/USD JORGE MORIS;;;;;;;;
+;;;;;;;;
+adig/1940;25-02-26;4,455;;FRANCISCO MIRANDA RIADI;;;51,431;-2,525,979
+Glosa : TDC CLP/USD FRANCISCO MIRANDA;;;;;;;;
+;;;;;;;;
+adig/1941;25-02-26;4,456;;MARCELO PENNA SANTOS;;;44,849;-2,570,828
+Glosa : TDC M. PENNA;;;;;;;;
+;;;;;;;;
+adig/1942;25-02-26;4,457;;KATHERINNE SILVANA ALARCON ESCOBAR;;;113,423;-2,684,251
+Glosa : TDC K. ALARCON;;;;;;;;
+;;;;;;;;
+adig/1943;25-02-26;4,458;;CAITLIN JOY WHEAT;;;1,329,047;-4,013,298
+Glosa : TDC CAITLYN WEAT;;;;;;;;
+;;;;;;;;
+adig/1943;25-02-26;4,458;;CAITLIN JOY WHEAT;;30,702;;-3,982,596
+Glosa : TDC CAITLYN WEAT;;;;;;;;
+;;;;;;;;
+plib/116;05-03-26;4,429;;CAITLIN JOY WHEAT;;233,347;;-3,749,249
+Glosa : Reembolsos Caitlin  - Dia de la mujer;;;;;;;;
+;;;;;;;;
+plib/120;12-03-26;4,433;;FRANCISCO MIRANDA RIADI;;51,431;;-3,697,818
+Glosa : Pago Tarjeta de credito Francisco Miranda;;;;;;;;
+;;;;;;;;
+plib/121;12-03-26;4,434;;JUAN SEBASTIAN CARVALLO JIMÉNEZ;;38,514;;-3,659,304
+Glosa : Pago tarjeta de credito Sebastian Carvallo;;;;;;;;
+;;;;;;;;
+plib/122;12-03-26;4,435;;KATHERINNE SILVANA ALARCON ESCOBAR;;113,423;;-3,545,881
+Glosa : Pago tarjeta de credito Katherinne Alarcon;;;;;;;;
+;;;;;;;;
+plib/123;12-03-26;4,436;;JORGE MORIS JORDÁN;;1,050,155;;-2,495,726
+Glosa : Pago tarjeta de credito Jorge Moris;;;;;;;;
+;;;;;;;;
+plib/124;12-03-26;4,437;;CAITLIN JOY WHEAT;;1,159,047;;-1,336,679
+Glosa : Pago tarjeta de credito Caitlin Wheat;;;;;;;;
+;;;;;;;;
+plib/125;12-03-26;4,438;;MARCELO PENNA SANTOS;;44,849;;-1,291,830
+Glosa : Pago tarjeta de credito Caitlin Wheat;;;;;;;;
+;;;;;;;;
+adig/1999;19-03-26;4,633;;DESWIK CHILE SPA;;;3,990;-1,295,820
+Glosa : CC Expense - Sodimac - nuevo dispensador de papel para oficina 13;;;;;;;;
+;;;;;;;;
+adig/1982;26-03-26;4,594;;MARCELO PENNA SANTOS;;;775,062;-2,070,882
+Glosa : TDC M. PENNA;;;;;;;;
+;;;;;;;;
+adig/1983;26-03-26;4,595;;JUAN SEBASTIAN CARVALLO JIMÉNEZ;;;28,900;-2,099,782
+Glosa : TDC CLP JUAN CARVALLO;;;;;;;;
+;;;;;;;;
+adig/1984;26-03-26;4,596;;KATHERINNE SILVANA ALARCON ESCOBAR;;;2,499,421;-4,599,203
+Glosa : TDC K. ALARCON;;;;;;;;
+;;;;;;;;
+adig/1985;26-03-26;4,597;;FRANCISCO MIRANDA RIADI;;;98,834;-4,698,037
+Glosa : TDC CLP/USD FRANCISCO MIRANDA;;;;;;;;
+;;;;;;;;
+adig/1986;26-03-26;4,598;;CAITLIN JOY WHEAT;;;2,211,560;-6,909,597
+Glosa : TDC CAITLYN WEAT;;;;;;;;
+;;;;;;;;
+adig/1986;26-03-26;4,598;;CAITLIN JOY WHEAT;;170,000;;-6,739,597
+Glosa : TDC CAITLYN WEAT;;;;;;;;
+;;;;;;;;
+adig/2000;31-03-26;4,634;;JUAN SEBASTIAN CARVALLO JIMÉNEZ;;;528,200;-7,267,797
+Glosa : CC Expense Aerolineas Argentinas - Sebastian Carvallo - Cerro Negro;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+Totales:;;;;;;10,704,909;17,972,706;
+Saldo Final Al 31/03/2026: ;;;;;;;;-7,267,797.00
+Cuenta:  2114 TARJETAS DE CREDITO USD;;;;;;;;
+Moneda de la Cta: Dólares Americanos;;;;;;;;
+Comprobante;Fec. Doc.;Voucher;;Titular;T.Doc/Nro;Debe;Haber;Acumulado
+;;;;;Saldo Inicial al 01/01/2026;;;0.00
+aape/5972;01-01-26;;;DEMO MAGNUS ERP;;;1,153.68;-1,153.68
+Glosa : Asiento de Apertura de Ejercicio;;;;;;;;
+;;;;;;;;
+adig/1891;28-01-26;4,242;;CAITLIN JOY WHEAT;;;230.00;-1,383.68
+Glosa : TDC CAITLYN WEAT;;;;;;;;
+;;;;;;;;
+adig/1891;28-01-26;4,242;;CAITLIN JOY WHEAT;;48.56;;-1,335.12
+Glosa : TDC CAITLYN WEAT;;;;;;;;
+;;;;;;;;
+adig/1892;28-01-26;4,243;;CESAR FELIPE MACHADO RIBEIRO LOPES;;88.56;;-1,246.56
+Glosa : TDC CESAR MACHADO;;;;;;;;
+;;;;;;;;
+adig/1893;28-01-26;4,244;;FRANCISCO MIRANDA RIADI;;;50.16;-1,296.72
+Glosa : TDC CLP/USD FRANCISCO MIRANDA;;;;;;;;
+;;;;;;;;
+adig/1893;28-01-26;4,244;;FRANCISCO MIRANDA RIADI;;144.43;;-1,152.29
+Glosa : TDC CLP/USD FRANCISCO MIRANDA;;;;;;;;
+;;;;;;;;
+adig/1894;28-01-26;4,245;;JUAN SEBASTIAN CARVALLO JIMÉNEZ;;101.42;;-1,050.87
+Glosa : TDC CLP JUAN CARVALLO;;;;;;;;
+;;;;;;;;
+adig/1895;28-01-26;4,246;;MARCELO PENNA SANTOS;;103.08;;-947.79
+Glosa : TDC M. PENNA;;;;;;;;
+;;;;;;;;
+adig/1896;28-01-26;4,247;;KATHERINNE SILVANA ALARCON ESCOBAR;;667.63;;-280.16
+Glosa : TDC K. ALARCON;;;;;;;;
+;;;;;;;;
+adig/1938;25-02-26;4,453;;JUAN SEBASTIAN CARVALLO JIMÉNEZ;;;25.06;-305.22
+Glosa : TDC CLP JUAN CARVALLO;;;;;;;;
+;;;;;;;;
+adig/1940;25-02-26;4,455;;FRANCISCO MIRANDA RIADI;;;98.84;-404.06
+Glosa : TDC CLP/USD FRANCISCO MIRANDA;;;;;;;;
+;;;;;;;;
+adig/1940;25-02-26;4,455;;FRANCISCO MIRANDA RIADI;;50.16;;-353.90
+Glosa : TDC CLP/USD FRANCISCO MIRANDA;;;;;;;;
+;;;;;;;;
+adig/1941;25-02-26;4,456;;MARCELO PENNA SANTOS;;;472.00;-825.90
+Glosa : TDC M. PENNA;;;;;;;;
+;;;;;;;;
+adig/1942;25-02-26;4,457;;KATHERINNE SILVANA ALARCON ESCOBAR;;;2,084.60;-2,910.50
+Glosa : TDC K. ALARCON;;;;;;;;
+;;;;;;;;
+adig/1943;25-02-26;4,458;;CAITLIN JOY WHEAT;;;1,160.03;-4,070.53
+Glosa : TDC CAITLYN WEAT;;;;;;;;
+;;;;;;;;
+adig/1943;25-02-26;4,458;;CAITLIN JOY WHEAT;;230.00;;-3,840.53
+Glosa : TDC CAITLYN WEAT;;;;;;;;
+;;;;;;;;
+adig/1982;26-03-26;4,594;;MARCELO PENNA SANTOS;;;240.84;-4,081.37
+Glosa : TDC M. PENNA;;;;;;;;
+;;;;;;;;
+adig/1982;26-03-26;4,594;;MARCELO PENNA SANTOS;;442.00;;-3,639.37
+Glosa : TDC M. PENNA;;;;;;;;
+;;;;;;;;
+adig/1983;26-03-26;4,595;;JUAN SEBASTIAN CARVALLO JIMÉNEZ;;;38.07;-3,677.44
+Glosa : TDC CLP JUAN CARVALLO;;;;;;;;
+;;;;;;;;
+adig/1983;26-03-26;4,595;;JUAN SEBASTIAN CARVALLO JIMÉNEZ;;25.06;;-3,652.38
+Glosa : TDC CLP JUAN CARVALLO;;;;;;;;
+;;;;;;;;
+adig/1984;26-03-26;4,596;;KATHERINNE SILVANA ALARCON ESCOBAR;;;310.21;-3,962.59
+Glosa : TDC K. ALARCON;;;;;;;;
+;;;;;;;;
+adig/1984;26-03-26;4,596;;KATHERINNE SILVANA ALARCON ESCOBAR;;2,084.60;;-1,877.99
+Glosa : TDC K. ALARCON;;;;;;;;
+;;;;;;;;
+adig/1985;26-03-26;4,597;;FRANCISCO MIRANDA RIADI;;98.84;;-1,779.15
+Glosa : TDC CLP/USD FRANCISCO MIRANDA;;;;;;;;
+;;;;;;;;
+adig/1986;26-03-26;4,598;;CAITLIN JOY WHEAT;;;96.10;-1,875.25
+Glosa : TDC CAITLYN WEAT;;;;;;;;
+;;;;;;;;
+adig/1986;26-03-26;4,598;;CAITLIN JOY WHEAT;;1,160.03;;-715.22
+Glosa : TDC CAITLYN WEAT;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+Totales:;;;;;;5,244.37;5,959.59;
+Saldo Final Al 31/03/2026: ;;;;;;;;-715.22
+ ;;;;;;;;
+MGMayorContableOF_CtaRel;;;;;;;;
